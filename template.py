@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]:  %(message)s')
 
-project_name = 'Bank Churn Prediction'
+project_name = 'ChurnClassification'
 
 file_list = [
     'github/workflows/.gitkeep',

@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Bank-Churn-Binary-Classification"
 AUTHOR_USER_NAME = "KooroshShakoori"
-SRC_REPO = "Bank Churn Prediction"
+SRC_REPO = "ChurnClassification"
 AUTHOR_EMAIL = "kooroshshakoori@gmail.com"
 
 
